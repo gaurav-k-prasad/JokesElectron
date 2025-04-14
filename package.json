@@ -1,7 +1,7 @@
 {
   "name": "electron",
   "version": "1.0.0",
-  "description": "Hello World!",
+  "description": "I am not writing Sry... :)",
   "main": "main.js",
   "scripts": {
     "build": "electron-builder",
